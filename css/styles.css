@@ -1,14 +1,14 @@
 h1 {
-  color: darkred;
+  color: rgb(120, 67, 189);
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: rgb(85, 58, 196);
 }
 
 p {
-  color: crimson;
+  color: rgb(20, 37, 220);
 }
 
 body {
